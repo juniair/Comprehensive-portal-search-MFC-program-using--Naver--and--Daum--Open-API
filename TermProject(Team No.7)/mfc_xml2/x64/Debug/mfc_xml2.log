@@ -1,0 +1,37 @@
+﻿빌드 시작: 2014-12-18 오전 2:38:05
+     1>2 노드의 "C:\Users\경준\Desktop\윈플 회의록\TermProject(Team No.7)\mfc_xml2\mfc_xml2.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "x64\Debug\mfc_xml2.unsuccessfulbuild"을(를) 만들고 있습니다.
+       GenerateTargetFrameworkMonikerAttribute:
+       해당 입력 파일과 비교하여 출력 파일이 모두 최신 파일이므로 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Debug\mfc_xml2.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\mfc_xml2.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /errorReport:prompt mfc_xml2.cpp mfc_xml2Dlg.cpp web.cpp WebBorwerDlg.cpp /clr:nostdlib 
+         mfc_xml2.cpp
+         mfc_xml2Dlg.cpp
+         web.cpp
+         WebBorwerDlg.cpp
+         Generating Code...
+         모든 출력이 최신 상태입니다.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0412" /Ix64\Debug\ /nologo /fo"x64\Debug\mfc_xml2.res" mfc_xml2.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\경준\Desktop\윈플 회의록\TermProject(Team No.7)\x64\Debug\mfc_xml2.exe" /INCREMENTAL /NOLOGO libmysql.lib ws2_32.lib /MANIFEST /ManifestFile:"x64\Debug\mfc_xml2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\경준\Desktop\윈플 회의록\TermProject(Team No.7)\x64\Debug\mfc_xml2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 x64\Debug\mfc_xml2.res
+         x64\Debug\mfc_xml2.obj
+         x64\Debug\mfc_xml2Dlg.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\web.obj
+         x64\Debug\WebBorwerDlg.obj
+         "x64\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         mfc_xml2.vcxproj -> C:\Users\경준\Desktop\윈플 회의록\TermProject(Team No.7)\x64\Debug\mfc_xml2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\경준\Desktop\윈플 회의록\TermProject(Team No.7)\x64\Debug\mfc_xml2.exe;#1" /manifest x64\Debug\mfc_xml2.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         "x64\Debug\mfc_xml2.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "x64\Debug\mfc_xml2.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\경준\Desktop\윈플 회의록\TermProject(Team No.7)\mfc_xml2\mfc_xml2.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:25.29
