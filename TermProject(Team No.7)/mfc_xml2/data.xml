@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<wclass>
+	<item id="69">
+	<productid>VB6</productid>
+	<quantity>2</quantity>
+	</item>
+
+	<item id="70">
+	<productid>C++</productid>
+	<quantity>3</quantity>
+	</item>
+</wclass>
